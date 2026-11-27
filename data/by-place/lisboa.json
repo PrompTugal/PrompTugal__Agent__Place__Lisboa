@@ -5,7 +5,7 @@
  "kind": "city",
  "parent": "portugal",
  "status": "live",
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "by": "place.lisboa@PrompTugal.dinis",
  "mandate": "PrompTugal.news Lisboa: AI and technology in Lisboa, the capital whose centre of gravity is its universities and research institutes, the Unicorn Factory startup hub and the national AI projects, and what reaches Lisboa from Portugal, Europe and the world. Independent; every fact sourced.",
  "gravity": {
@@ -768,7 +768,7 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-26T18:37Z",
+  "read_at": "2026-11-27T07:37Z",
   "by": "place.lisboa@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
@@ -776,75 +776,75 @@
    "url": "https://lisboaparapessoas.pt/2026/11/26/dados-abertos-tml/",
    "source": "LPP - Lisboa Para Pessoas",
    "date": "2026-11-26",
-   "read_at": "2026-11-26T18:27:06Z",
+   "read_at": "2026-11-27T07:25:36Z",
    "names_place": true
   },
   "items": [
    {
-    "title": "João Caçoilas leva humor solidário aos Bombeiros de Pinhal Novo",
-    "url": "https://diariodistrito.sapo.pt/joao-cacoilas-leva-humor-solidario-aos-bombeiros-de-pinhal-novo/",
-    "published": "2026-11-26T18:21Z",
+    "title": "Das chaminés aos palcos: Barreiro quer fazer da história operária Capital da Cultura",
+    "url": "https://diariodistrito.sapo.pt/barreiro-aposta-na-cultura-operaria-para-2028/",
+    "published": "2026-11-27T07:00Z",
     "source": "Diário do Distrito",
     "source_site": "https://www.diariodistrito.pt",
     "feed": "https://www.diariodistrito.pt/feed/",
-    "read_at": "2026-11-26T18:27:04Z",
+    "read_at": "2026-11-27T07:25:32Z",
     "mentions_place": false,
-    "date": "2026-11-26"
+    "date": "2026-11-27"
    },
    {
-    "title": "Faltam médicos de família e quase metade das vagas para formar novos especialistas ficou vazia",
-    "url": "https://diariodistrito.sapo.pt/tras-os-montes-sem-medicos-vagas-por-preencher/",
-    "published": "2026-11-26T18:15Z",
+    "title": "Grupo Motard Pistons d’Aço adia 5.º aniversário em Sesimbra devido a limitações do espaço",
+    "url": "https://diariodistrito.sapo.pt/grupo-motard-pistons-daco-celebra-5-o-aniversario-em-sesimbra-a-12-de-dezembro/",
+    "published": "2026-11-27T07:00Z",
     "source": "Diário do Distrito",
     "source_site": "https://www.diariodistrito.pt",
     "feed": "https://www.diariodistrito.pt/feed/",
-    "read_at": "2026-11-26T18:27:04Z",
+    "read_at": "2026-11-27T07:25:32Z",
     "mentions_place": false,
-    "date": "2026-11-26"
+    "date": "2026-11-27"
    },
    {
-    "title": "Lagoa dos Salgados mais perto de se tornar área protegida após anos de espera",
-    "url": "https://diariodistrito.sapo.pt/lagoa-dos-salgados-mais-perto-de-se-tornar-area-protegida-apos-anos-de-espera/",
-    "published": "2026-11-26T18:06Z",
+    "title": "Costa da Caparica vai ganhar Museu Vivo da Arte-Xávega e melhores condições para os pescadores",
+    "url": "https://diariodistrito.sapo.pt/museu-vivo-da-arte-xavega-e-melhorias-na-caparica/",
+    "published": "2026-11-27T06:30Z",
     "source": "Diário do Distrito",
     "source_site": "https://www.diariodistrito.pt",
     "feed": "https://www.diariodistrito.pt/feed/",
-    "read_at": "2026-11-26T18:27:04Z",
+    "read_at": "2026-11-27T07:25:32Z",
     "mentions_place": false,
-    "date": "2026-11-26"
+    "date": "2026-11-27"
    },
    {
-    "title": "Acordo entre Versigent e Câmara de Castelo Branco fomenta emprego",
-    "url": "https://diariodistrito.sapo.pt/acordo-entre-versigent-e-camara-de-castelo-branco-fomenta-emprego/",
-    "published": "2026-11-26T18:00Z",
+    "title": "Dois à procura de trabalho, nenhum empregado: o drama de 4.329 casais",
+    "url": "https://diariodistrito.sapo.pt/crise-de-desemprego-atinge-4-329-casais-em-portugal/",
+    "published": "2026-11-27T06:00Z",
     "source": "Diário do Distrito",
     "source_site": "https://www.diariodistrito.pt",
     "feed": "https://www.diariodistrito.pt/feed/",
-    "read_at": "2026-11-26T18:27:04Z",
+    "read_at": "2026-11-27T07:25:32Z",
     "mentions_place": false,
-    "date": "2026-11-26"
+    "date": "2026-11-27"
    },
    {
-    "title": "PSP de Setúbal promove formação sobre orientação sexual e identidade de género",
-    "url": "https://diariodistrito.sapo.pt/psp-de-setubal-promove-formacao-sobre-orientacao-sexual-e-identidade-de-genero/",
-    "published": "2026-11-26T17:45Z",
+    "title": "Sangue O+ em risco crítico: só há reservas para 2 dias no Hospital de",
+    "url": "https://diariodistrito.sapo.pt/hospital-de-setubal-com-sangue-o-para-apenas-dois-dias/",
+    "published": "2026-11-27T05:00Z",
     "source": "Diário do Distrito",
     "source_site": "https://www.diariodistrito.pt",
     "feed": "https://www.diariodistrito.pt/feed/",
-    "read_at": "2026-11-26T18:27:04Z",
+    "read_at": "2026-11-27T07:25:32Z",
     "mentions_place": false,
-    "date": "2026-11-26"
+    "date": "2026-11-27"
    },
    {
-    "title": "Câmara Municipal do Seixal anuncia redução da decoração natalícia deste ano",
-    "url": "https://diariodistrito.sapo.pt/camara-municipal-do-seixal-anuncia-reducao-da-decoracao-natalicia-deste-ano/",
-    "published": "2026-11-26T17:40Z",
+    "title": "205 mil euros para pôr comida à mesa: Moita abre concurso em oito lotes",
+    "url": "https://diariodistrito.sapo.pt/moita-concurso-publico-alimentos-205-mil-euros/",
+    "published": "2026-11-27T04:00Z",
     "source": "Diário do Distrito",
     "source_site": "https://www.diariodistrito.pt",
     "feed": "https://www.diariodistrito.pt/feed/",
-    "read_at": "2026-11-26T18:27:04Z",
+    "read_at": "2026-11-27T07:25:32Z",
     "mentions_place": false,
-    "date": "2026-11-26"
+    "date": "2026-11-27"
    },
    {
     "title": "AbrilAbril hoje: Há um subtexto na encenação de Montenegro: tudo o que é gravoso será executado",
@@ -853,7 +853,7 @@
     "source": "AbrilAbril",
     "source_site": "https://www.abrilabril.pt",
     "feed": "https://www.abrilabril.pt/rss.xml",
-    "read_at": "2026-11-26T18:27:00Z",
+    "read_at": "2026-11-27T07:25:28Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -864,7 +864,7 @@
     "source": "Mega Hits",
     "source_site": "https://megahits.fm/",
     "feed": "https://megahits.fm/rssfeed",
-    "read_at": "2026-11-26T18:27:08Z",
+    "read_at": "2026-11-27T07:25:38Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -875,7 +875,7 @@
     "source": "LPP - Lisboa Para Pessoas",
     "source_site": "https://lisboaparapessoas.pt/",
     "feed": "https://lisboaparapessoas.pt/feed/",
-    "read_at": "2026-11-26T18:27:06Z",
+    "read_at": "2026-11-27T07:25:36Z",
     "mentions_place": true,
     "date": "2026-11-26"
    },
@@ -886,7 +886,7 @@
     "source": "Mega Hits",
     "source_site": "https://megahits.fm/",
     "feed": "https://megahits.fm/rssfeed",
-    "read_at": "2026-11-26T18:27:08Z",
+    "read_at": "2026-11-27T07:25:38Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -897,7 +897,7 @@
     "source": "Mega Hits",
     "source_site": "https://megahits.fm/",
     "feed": "https://megahits.fm/rssfeed",
-    "read_at": "2026-11-26T18:27:08Z",
+    "read_at": "2026-11-27T07:25:38Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -908,7 +908,7 @@
     "source": "Mega Hits",
     "source_site": "https://megahits.fm/",
     "feed": "https://megahits.fm/rssfeed",
-    "read_at": "2026-11-26T18:27:08Z",
+    "read_at": "2026-11-27T07:25:38Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -919,7 +919,7 @@
     "source": "Mega Hits",
     "source_site": "https://megahits.fm/",
     "feed": "https://megahits.fm/rssfeed",
-    "read_at": "2026-11-26T18:27:08Z",
+    "read_at": "2026-11-27T07:25:38Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -930,7 +930,7 @@
     "source": "LPP - Lisboa Para Pessoas",
     "source_site": "https://lisboaparapessoas.pt/",
     "feed": "https://lisboaparapessoas.pt/feed/",
-    "read_at": "2026-11-26T18:27:06Z",
+    "read_at": "2026-11-27T07:25:36Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -941,7 +941,7 @@
     "source": "Mega Hits",
     "source_site": "https://megahits.fm/",
     "feed": "https://megahits.fm/rssfeed",
-    "read_at": "2026-11-26T18:27:08Z",
+    "read_at": "2026-11-27T07:25:38Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -952,7 +952,7 @@
     "source": "AbrilAbril",
     "source_site": "https://www.abrilabril.pt",
     "feed": "https://www.abrilabril.pt/rss.xml",
-    "read_at": "2026-11-26T18:27:00Z",
+    "read_at": "2026-11-27T07:25:28Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -963,7 +963,7 @@
     "source": "LPP - Lisboa Para Pessoas",
     "source_site": "https://lisboaparapessoas.pt/",
     "feed": "https://lisboaparapessoas.pt/feed/",
-    "read_at": "2026-11-26T18:27:06Z",
+    "read_at": "2026-11-27T07:25:36Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -974,7 +974,7 @@
     "source": "AbrilAbril",
     "source_site": "https://www.abrilabril.pt",
     "feed": "https://www.abrilabril.pt/rss.xml",
-    "read_at": "2026-11-26T18:27:00Z",
+    "read_at": "2026-11-27T07:25:28Z",
     "mentions_place": false,
     "date": "2026-11-24"
    },
@@ -985,7 +985,7 @@
     "source": "LPP - Lisboa Para Pessoas",
     "source_site": "https://lisboaparapessoas.pt/",
     "feed": "https://lisboaparapessoas.pt/feed/",
-    "read_at": "2026-11-26T18:27:06Z",
+    "read_at": "2026-11-27T07:25:36Z",
     "mentions_place": false,
     "date": "2026-11-24"
    },
@@ -996,7 +996,7 @@
     "source": "LPP - Lisboa Para Pessoas",
     "source_site": "https://lisboaparapessoas.pt/",
     "feed": "https://lisboaparapessoas.pt/feed/",
-    "read_at": "2026-11-26T18:27:06Z",
+    "read_at": "2026-11-27T07:25:36Z",
     "mentions_place": false,
     "date": "2026-11-23"
    },
@@ -1007,7 +1007,7 @@
     "source": "LPP - Lisboa Para Pessoas",
     "source_site": "https://lisboaparapessoas.pt/",
     "feed": "https://lisboaparapessoas.pt/feed/",
-    "read_at": "2026-11-26T18:27:06Z",
+    "read_at": "2026-11-27T07:25:36Z",
     "mentions_place": true,
     "date": "2026-11-19"
    },
@@ -1018,7 +1018,7 @@
     "source": "AbrilAbril",
     "source_site": "https://www.abrilabril.pt",
     "feed": "https://www.abrilabril.pt/rss.xml",
-    "read_at": "2026-11-26T18:27:00Z",
+    "read_at": "2026-11-27T07:25:28Z",
     "mentions_place": false,
     "date": "2022-08-09"
    },
@@ -1029,7 +1029,7 @@
     "source": "AbrilAbril",
     "source_site": "https://www.abrilabril.pt",
     "feed": "https://www.abrilabril.pt/rss.xml",
-    "read_at": "2026-11-26T18:27:00Z",
+    "read_at": "2026-11-27T07:25:28Z",
     "mentions_place": false,
     "date": "2022-07-30"
    },
@@ -1040,7 +1040,7 @@
     "source": "AbrilAbril",
     "source_site": "https://www.abrilabril.pt",
     "feed": "https://www.abrilabril.pt/rss.xml",
-    "read_at": "2026-11-26T18:27:00Z",
+    "read_at": "2026-11-27T07:25:28Z",
     "mentions_place": false,
     "date": "2019-10-21"
    },
@@ -1051,7 +1051,7 @@
     "source": "Região de Lisboa",
     "source_site": "https://regiaodelisboa.sapo.pt/",
     "feed": "https://regiaodelisboa.sapo.pt/feed",
-    "read_at": "2026-11-26T18:27:14Z",
+    "read_at": "2026-11-27T07:25:45Z",
     "mentions_place": false,
     "date": null
    },
@@ -1062,7 +1062,7 @@
     "source": "Região de Lisboa",
     "source_site": "https://regiaodelisboa.sapo.pt/",
     "feed": "https://regiaodelisboa.sapo.pt/feed",
-    "read_at": "2026-11-26T18:27:14Z",
+    "read_at": "2026-11-27T07:25:45Z",
     "mentions_place": false,
     "date": null
    },
@@ -1073,7 +1073,7 @@
     "source": "Região de Lisboa",
     "source_site": "https://regiaodelisboa.sapo.pt/",
     "feed": "https://regiaodelisboa.sapo.pt/feed",
-    "read_at": "2026-11-26T18:27:14Z",
+    "read_at": "2026-11-27T07:25:45Z",
     "mentions_place": false,
     "date": null
    },
@@ -1084,7 +1084,7 @@
     "source": "Região de Lisboa",
     "source_site": "https://regiaodelisboa.sapo.pt/",
     "feed": "https://regiaodelisboa.sapo.pt/feed",
-    "read_at": "2026-11-26T18:27:14Z",
+    "read_at": "2026-11-27T07:25:45Z",
     "mentions_place": true,
     "date": null
    },
@@ -1095,7 +1095,7 @@
     "source": "Região de Lisboa",
     "source_site": "https://regiaodelisboa.sapo.pt/",
     "feed": "https://regiaodelisboa.sapo.pt/feed",
-    "read_at": "2026-11-26T18:27:14Z",
+    "read_at": "2026-11-27T07:25:45Z",
     "mentions_place": true,
     "date": null
    },
@@ -1106,7 +1106,7 @@
     "source": "Região de Lisboa",
     "source_site": "https://regiaodelisboa.sapo.pt/",
     "feed": "https://regiaodelisboa.sapo.pt/feed",
-    "read_at": "2026-11-26T18:27:14Z",
+    "read_at": "2026-11-27T07:25:45Z",
     "mentions_place": false,
     "date": null
    }
